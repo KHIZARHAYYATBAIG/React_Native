@@ -1,0 +1,6 @@
+//React Navigation:- (Routing in web Navigation in Modile deve)
+//Navigation means "go from one screen to another screen."
+//Types of Navigation:-
+//1.Stack Navigaiton: means singup -> Login -> Dashboard -> order
+//2.Drawer Navigation: means Menue bar
+//3.Tab Navigation: means kai tab or footer same rahy or middle wala change ho jai.
